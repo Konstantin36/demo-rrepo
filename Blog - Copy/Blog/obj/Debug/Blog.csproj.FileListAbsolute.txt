@@ -1,0 +1,1640 @@
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\ApplicationInsights.config
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\roslyn\csc.exe
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\roslyn\System.Collections.Immutable.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\roslyn\vbc.exe
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\roslyn\VBCSCompiler.exe
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\roslyn\VBCSCompiler.exe.config
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Blog.dll.config
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Antlr3.Runtime.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\EntityFramework.SqlServer.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.AI.Web.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.AI.WindowsServer.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.ApplicationInsights.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.Owin.Security.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.Owin.Security.Google.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.Web.Infrastructure.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Newtonsoft.Json.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\System.Web.Helpers.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\System.Web.Mvc.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\System.Web.Optimization.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\System.Web.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\System.Web.WebPages.Deployment.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\System.Web.WebPages.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\System.Web.WebPages.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\WebGrease.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.AI.Web.xml
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.AI.WindowsServer.xml
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.ApplicationInsights.xml
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\System.Web.Helpers.xml
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\System.Web.Mvc.xml
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\System.Web.Optimization.xml
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\System.Web.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\System.Web.WebPages.xml
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\System.Web.WebPages.Deployment.xml
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\System.Web.WebPages.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Antlr3.Runtime.pdb
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Newtonsoft.Json.xml
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\EntityFramework.SqlServer.xml
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.Owin.Security.xml
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.Owin.Security.Google.xml
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\obj\Debug\Blog.csprojResolveAssemblyReference.cache
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\obj\Debug\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Advance\Blog\obj\Debug\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\ApplicationInsights.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\roslyn\csc.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\roslyn\System.Collections.Immutable.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\roslyn\vbc.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\roslyn\VBCSCompiler.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\roslyn\VBCSCompiler.exe.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Blog.dll.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Antlr3.Runtime.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\EntityFramework.SqlServer.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.AI.Web.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.AI.WindowsServer.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.ApplicationInsights.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.Owin.Security.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.Owin.Security.Google.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.Web.Infrastructure.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Newtonsoft.Json.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\System.Web.Helpers.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\System.Web.Mvc.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\System.Web.Optimization.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\System.Web.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\System.Web.WebPages.Deployment.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\System.Web.WebPages.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\System.Web.WebPages.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\WebGrease.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.AI.Web.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.AI.WindowsServer.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.ApplicationInsights.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\System.Web.Helpers.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\System.Web.Mvc.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\System.Web.Optimization.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\System.Web.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\System.Web.WebPages.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\System.Web.WebPages.Deployment.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\System.Web.WebPages.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Antlr3.Runtime.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Newtonsoft.Json.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\EntityFramework.SqlServer.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.Owin.Security.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.Owin.Security.Google.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\obj\Debug\Blog.csprojResolveAssemblyReference.cache
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\obj\Debug\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog\Blog\obj\Debug\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\ApplicationInsights.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\roslyn\csc.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\roslyn\System.Collections.Immutable.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\roslyn\vbc.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\roslyn\VBCSCompiler.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\roslyn\VBCSCompiler.exe.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Blog.dll.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Antlr3.Runtime.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\EntityFramework.SqlServer.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.AI.Web.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.AI.WindowsServer.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.ApplicationInsights.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.Owin.Security.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.Owin.Security.Google.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.Web.Infrastructure.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Newtonsoft.Json.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\System.Web.Helpers.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\System.Web.Mvc.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\System.Web.Optimization.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\System.Web.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\System.Web.WebPages.Deployment.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\System.Web.WebPages.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\System.Web.WebPages.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\WebGrease.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.AI.Web.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.AI.WindowsServer.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.ApplicationInsights.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\System.Web.Helpers.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\System.Web.Mvc.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\System.Web.Optimization.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\System.Web.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\System.Web.WebPages.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\System.Web.WebPages.Deployment.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\System.Web.WebPages.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Antlr3.Runtime.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Newtonsoft.Json.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\EntityFramework.SqlServer.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.Owin.Security.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.Owin.Security.Google.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\obj\Debug\Blog.csprojResolveAssemblyReference.cache
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\obj\Debug\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Edit Delete - Copy\Blog\obj\Debug\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\ApplicationInsights.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\roslyn\csc.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\roslyn\System.Collections.Immutable.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\roslyn\vbc.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\roslyn\VBCSCompiler.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\roslyn\VBCSCompiler.exe.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Blog.dll.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Antlr3.Runtime.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\EntityFramework.SqlServer.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.AI.Web.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.AI.WindowsServer.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.ApplicationInsights.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.Owin.Security.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.Owin.Security.Google.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.Web.Infrastructure.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Newtonsoft.Json.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\System.Web.Helpers.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\System.Web.Mvc.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\System.Web.Optimization.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\System.Web.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\System.Web.WebPages.Deployment.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\System.Web.WebPages.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\System.Web.WebPages.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\WebGrease.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.AI.Web.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.AI.WindowsServer.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.ApplicationInsights.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\System.Web.Helpers.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\System.Web.Mvc.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\System.Web.Optimization.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\System.Web.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\System.Web.WebPages.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\System.Web.WebPages.Deployment.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\System.Web.WebPages.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Antlr3.Runtime.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Newtonsoft.Json.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\EntityFramework.SqlServer.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.Owin.Security.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.Owin.Security.Google.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\obj\Debug\Blog.csprojResolveAssemblyReference.cache
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\obj\Debug\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login - Copy\Blog\obj\Debug\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\ApplicationInsights.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\roslyn\csc.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\roslyn\System.Collections.Immutable.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\roslyn\vbc.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\roslyn\VBCSCompiler.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\roslyn\VBCSCompiler.exe.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Blog.dll.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Antlr3.Runtime.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\EntityFramework.SqlServer.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.AI.Web.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.AI.WindowsServer.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.ApplicationInsights.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.Owin.Security.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.Owin.Security.Google.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.Web.Infrastructure.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Newtonsoft.Json.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\System.Web.Helpers.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\System.Web.Mvc.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\System.Web.Optimization.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\System.Web.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\System.Web.WebPages.Deployment.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\System.Web.WebPages.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\System.Web.WebPages.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\WebGrease.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.AI.Web.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.AI.WindowsServer.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.ApplicationInsights.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\System.Web.Helpers.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\System.Web.Mvc.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\System.Web.Optimization.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\System.Web.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\System.Web.WebPages.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\System.Web.WebPages.Deployment.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\System.Web.WebPages.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Antlr3.Runtime.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Newtonsoft.Json.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\EntityFramework.SqlServer.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.Owin.Security.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.Owin.Security.Google.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\obj\Debug\Blog.csprojResolveAssemblyReference.cache
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\obj\Debug\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Login Validator edit delete - Copy\Blog\obj\Debug\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\ApplicationInsights.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\roslyn\csc.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\roslyn\System.Collections.Immutable.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\roslyn\vbc.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\roslyn\VBCSCompiler.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\roslyn\VBCSCompiler.exe.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Blog.dll.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Antlr3.Runtime.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\EntityFramework.SqlServer.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.AI.Web.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.AI.WindowsServer.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.ApplicationInsights.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.Owin.Security.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.Owin.Security.Google.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.Web.Infrastructure.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Newtonsoft.Json.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\System.Web.Helpers.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\System.Web.Mvc.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\System.Web.Optimization.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\System.Web.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\System.Web.WebPages.Deployment.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\System.Web.WebPages.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\System.Web.WebPages.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\WebGrease.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.AI.Web.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.AI.WindowsServer.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.ApplicationInsights.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\System.Web.Helpers.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\System.Web.Mvc.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\System.Web.Optimization.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\System.Web.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\System.Web.WebPages.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\System.Web.WebPages.Deployment.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\System.Web.WebPages.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Antlr3.Runtime.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Newtonsoft.Json.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\EntityFramework.SqlServer.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.Owin.Security.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.Owin.Security.Google.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\obj\Debug\Blog.csprojResolveAssemblyReference.cache
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\obj\Debug\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Admin Panel\Blog\obj\Debug\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\ApplicationInsights.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\roslyn\csc.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\roslyn\System.Collections.Immutable.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\roslyn\vbc.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\roslyn\VBCSCompiler.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\roslyn\VBCSCompiler.exe.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Blog.dll.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Antlr3.Runtime.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\EntityFramework.SqlServer.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.AI.Web.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.AI.WindowsServer.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.ApplicationInsights.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.Owin.Security.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.Owin.Security.Google.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.Web.Infrastructure.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Newtonsoft.Json.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\System.Web.Helpers.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\System.Web.Mvc.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\System.Web.Optimization.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\System.Web.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\System.Web.WebPages.Deployment.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\System.Web.WebPages.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\System.Web.WebPages.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\WebGrease.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.AI.Web.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.AI.WindowsServer.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.ApplicationInsights.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\System.Web.Helpers.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\System.Web.Mvc.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\System.Web.Optimization.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\System.Web.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\System.Web.WebPages.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\System.Web.WebPages.Deployment.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\System.Web.WebPages.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Antlr3.Runtime.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Newtonsoft.Json.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\EntityFramework.SqlServer.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.Owin.Security.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.Owin.Security.Google.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\obj\Debug\Blog.csprojResolveAssemblyReference.cache
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\obj\Debug\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Categori Table in Data app - Copy\Blog\obj\Debug\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\ApplicationInsights.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\roslyn\csc.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\roslyn\System.Collections.Immutable.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\roslyn\vbc.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\roslyn\VBCSCompiler.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\roslyn\VBCSCompiler.exe.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Blog.dll.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Antlr3.Runtime.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\EntityFramework.SqlServer.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.AI.Web.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.AI.WindowsServer.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.ApplicationInsights.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.Owin.Security.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.Owin.Security.Google.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.Web.Infrastructure.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Newtonsoft.Json.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\System.Web.Helpers.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\System.Web.Mvc.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\System.Web.Optimization.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\System.Web.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\System.Web.WebPages.Deployment.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\System.Web.WebPages.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\System.Web.WebPages.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\WebGrease.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.AI.Web.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.AI.WindowsServer.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.ApplicationInsights.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\System.Web.Helpers.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\System.Web.Mvc.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\System.Web.Optimization.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\System.Web.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\System.Web.WebPages.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\System.Web.WebPages.Deployment.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\System.Web.WebPages.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Antlr3.Runtime.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Newtonsoft.Json.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\EntityFramework.SqlServer.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.Owin.Security.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.Owin.Security.Google.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\obj\Debug\Blog.csprojResolveAssemblyReference.cache
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\obj\Debug\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Copy (2)\Blog\obj\Debug\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\ApplicationInsights.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\roslyn\csc.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\roslyn\System.Collections.Immutable.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\roslyn\vbc.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\roslyn\VBCSCompiler.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\roslyn\VBCSCompiler.exe.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Blog.dll.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Antlr3.Runtime.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\EntityFramework.SqlServer.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.AI.Web.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.AI.WindowsServer.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.ApplicationInsights.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.Owin.Security.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.Owin.Security.Google.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.Web.Infrastructure.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Newtonsoft.Json.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\System.Web.Helpers.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\System.Web.Mvc.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\System.Web.Optimization.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\System.Web.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\System.Web.WebPages.Deployment.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\System.Web.WebPages.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\System.Web.WebPages.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\WebGrease.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.AI.Web.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.AI.WindowsServer.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.ApplicationInsights.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\System.Web.Helpers.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\System.Web.Mvc.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\System.Web.Optimization.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\System.Web.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\System.Web.WebPages.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\System.Web.WebPages.Deployment.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\System.Web.WebPages.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Antlr3.Runtime.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Newtonsoft.Json.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\EntityFramework.SqlServer.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.Owin.Security.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.Owin.Security.Google.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\obj\Debug\Blog.csprojResolveAssemblyReference.cache
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\obj\Debug\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View\Blog\obj\Debug\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\ApplicationInsights.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\roslyn\csc.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\roslyn\System.Collections.Immutable.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\roslyn\vbc.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\roslyn\VBCSCompiler.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\roslyn\VBCSCompiler.exe.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Blog.dll.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Antlr3.Runtime.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\EntityFramework.SqlServer.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AI.Web.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AI.WindowsServer.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.ApplicationInsights.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Security.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Security.Google.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Web.Infrastructure.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Newtonsoft.Json.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\System.Web.Helpers.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\System.Web.Mvc.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\System.Web.Optimization.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\System.Web.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\System.Web.WebPages.Deployment.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\System.Web.WebPages.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\System.Web.WebPages.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\WebGrease.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AI.Web.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AI.WindowsServer.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.ApplicationInsights.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\System.Web.Helpers.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\System.Web.Mvc.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\System.Web.Optimization.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\System.Web.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\System.Web.WebPages.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\System.Web.WebPages.Deployment.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\System.Web.WebPages.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Antlr3.Runtime.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Newtonsoft.Json.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\EntityFramework.SqlServer.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Security.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Security.Google.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\obj\Debug\Blog.csprojResolveAssemblyReference.cache
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\obj\Debug\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\obj\Debug\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\ApplicationInsights.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\roslyn\csc.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\roslyn\System.Collections.Immutable.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\roslyn\vbc.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\roslyn\VBCSCompiler.exe
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\roslyn\VBCSCompiler.exe.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Blog.dll.config
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Antlr3.Runtime.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\EntityFramework.SqlServer.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.AI.Web.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.AI.WindowsServer.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.ApplicationInsights.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.Owin.Security.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.Owin.Security.Google.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.Web.Infrastructure.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Newtonsoft.Json.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\System.Web.Helpers.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\System.Web.Mvc.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\System.Web.Optimization.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\System.Web.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\System.Web.WebPages.Deployment.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\System.Web.WebPages.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\System.Web.WebPages.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\WebGrease.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.AI.Web.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.AI.WindowsServer.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.ApplicationInsights.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\System.Web.Helpers.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\System.Web.Mvc.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\System.Web.Optimization.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\System.Web.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\System.Web.WebPages.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\System.Web.WebPages.Deployment.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\System.Web.WebPages.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Antlr3.Runtime.pdb
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Newtonsoft.Json.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\EntityFramework.SqlServer.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.Owin.Security.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.Owin.Security.Google.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\obj\Debug\Blog.csprojResolveAssemblyReference.cache
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\obj\Debug\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Admin Blog Category Create Controler - Create Edit & Delete from View Index - Copy\Blog\obj\Debug\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\ApplicationInsights.config
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\roslyn\csc.exe
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\roslyn\System.Collections.Immutable.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\roslyn\vbc.exe
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\roslyn\VBCSCompiler.exe
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\roslyn\VBCSCompiler.exe.config
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Blog.dll.config
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Antlr3.Runtime.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\EntityFramework.SqlServer.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AI.Web.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AI.WindowsServer.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.ApplicationInsights.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Security.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Security.Google.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Web.Infrastructure.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Newtonsoft.Json.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\System.Web.Helpers.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\System.Web.Mvc.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\System.Web.Optimization.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\System.Web.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\System.Web.WebPages.Deployment.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\System.Web.WebPages.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\System.Web.WebPages.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\WebGrease.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AI.Web.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AI.WindowsServer.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.ApplicationInsights.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\System.Web.Helpers.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\System.Web.Mvc.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\System.Web.Optimization.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\System.Web.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\System.Web.WebPages.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\System.Web.WebPages.Deployment.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\System.Web.WebPages.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Antlr3.Runtime.pdb
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Newtonsoft.Json.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\EntityFramework.SqlServer.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Security.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Security.Google.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\obj\Debug\Blog.csprojResolveAssemblyReference.cache
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\obj\Debug\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Admin Blog Category Create Controler - Create Edit & Delete from View Index\Blog\obj\Debug\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\ApplicationInsights.config
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\roslyn\csc.exe
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\roslyn\System.Collections.Immutable.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\roslyn\vbc.exe
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\roslyn\VBCSCompiler.exe
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\roslyn\VBCSCompiler.exe.config
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Blog.dll.config
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Antlr3.Runtime.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\EntityFramework.SqlServer.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.AI.Web.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.AI.WindowsServer.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.ApplicationInsights.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.Owin.Security.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.Owin.Security.Google.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.Web.Infrastructure.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Newtonsoft.Json.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\System.Web.Helpers.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\System.Web.Mvc.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\System.Web.Optimization.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\System.Web.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\System.Web.WebPages.Deployment.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\System.Web.WebPages.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\System.Web.WebPages.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\WebGrease.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.AI.Web.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.AI.WindowsServer.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.ApplicationInsights.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\System.Web.Helpers.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\System.Web.Mvc.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\System.Web.Optimization.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\System.Web.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\System.Web.WebPages.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\System.Web.WebPages.Deployment.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\System.Web.WebPages.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Antlr3.Runtime.pdb
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Newtonsoft.Json.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\EntityFramework.SqlServer.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.Owin.Security.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.Owin.Security.Google.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\obj\Debug\Blog.csprojResolveAssemblyReference.cache
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\obj\Debug\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview\Blog\obj\Debug\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\ApplicationInsights.config
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\roslyn\csc.exe
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\roslyn\System.Collections.Immutable.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\roslyn\vbc.exe
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\roslyn\VBCSCompiler.exe
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\roslyn\VBCSCompiler.exe.config
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Blog.dll.config
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Antlr3.Runtime.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\EntityFramework.SqlServer.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.AI.Web.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.AI.WindowsServer.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.ApplicationInsights.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.Owin.Security.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.Owin.Security.Google.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.Web.Infrastructure.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Newtonsoft.Json.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\System.Web.Helpers.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\System.Web.Mvc.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\System.Web.Optimization.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\System.Web.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\System.Web.WebPages.Deployment.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\System.Web.WebPages.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\System.Web.WebPages.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\WebGrease.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.AI.Web.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.AI.WindowsServer.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.ApplicationInsights.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\System.Web.Helpers.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\System.Web.Mvc.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\System.Web.Optimization.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\System.Web.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\System.Web.WebPages.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\System.Web.WebPages.Deployment.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\System.Web.WebPages.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Antlr3.Runtime.pdb
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Newtonsoft.Json.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\EntityFramework.SqlServer.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.Owin.Security.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.Owin.Security.Google.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\obj\Debug\Blog.csprojResolveAssemblyReference.cache
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\obj\Debug\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog first preview BG\Blog\obj\Debug\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\ApplicationInsights.config
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\roslyn\csc.exe
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\roslyn\System.Collections.Immutable.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\roslyn\vbc.exe
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\roslyn\VBCSCompiler.exe
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\roslyn\VBCSCompiler.exe.config
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Blog.dll.config
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Antlr3.Runtime.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\EntityFramework.SqlServer.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.AI.Web.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.AI.WindowsServer.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.ApplicationInsights.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.Owin.Security.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.Owin.Security.Google.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.Web.Infrastructure.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Newtonsoft.Json.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\System.Web.Helpers.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\System.Web.Mvc.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\System.Web.Optimization.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\System.Web.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\System.Web.WebPages.Deployment.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\System.Web.WebPages.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\System.Web.WebPages.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\WebGrease.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.AI.Web.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.AI.WindowsServer.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.ApplicationInsights.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\System.Web.Helpers.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\System.Web.Mvc.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\System.Web.Optimization.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\System.Web.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\System.Web.WebPages.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\System.Web.WebPages.Deployment.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\System.Web.WebPages.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Antlr3.Runtime.pdb
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Newtonsoft.Json.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\EntityFramework.SqlServer.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.Owin.Security.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.Owin.Security.Google.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\obj\Debug\Blog.csprojResolveAssemblyReference.cache
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\obj\Debug\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog second preview\Blog\obj\Debug\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\ApplicationInsights.config
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\roslyn\csc.exe
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\roslyn\System.Collections.Immutable.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\roslyn\vbc.exe
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\roslyn\VBCSCompiler.exe
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\roslyn\VBCSCompiler.exe.config
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Blog.dll.config
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Antlr3.Runtime.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\EntityFramework.SqlServer.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.AI.Web.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.AI.WindowsServer.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.ApplicationInsights.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.Owin.Security.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.Owin.Security.Google.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.Web.Infrastructure.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Newtonsoft.Json.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\System.Web.Helpers.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\System.Web.Mvc.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\System.Web.Optimization.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\System.Web.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\System.Web.WebPages.Deployment.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\System.Web.WebPages.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\System.Web.WebPages.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\WebGrease.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.AI.Web.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.AI.WindowsServer.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.ApplicationInsights.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\System.Web.Helpers.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\System.Web.Mvc.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\System.Web.Optimization.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\System.Web.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\System.Web.WebPages.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\System.Web.WebPages.Deployment.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\System.Web.WebPages.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Antlr3.Runtime.pdb
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Newtonsoft.Json.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\EntityFramework.SqlServer.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.Owin.Security.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.Owin.Security.Google.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\obj\Debug\Blog.csprojResolveAssemblyReference.cache
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\obj\Debug\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth preview - Copy\Blog\obj\Debug\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\ApplicationInsights.config
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\roslyn\csc.exe
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\roslyn\System.Collections.Immutable.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\roslyn\vbc.exe
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\roslyn\VBCSCompiler.exe
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\roslyn\VBCSCompiler.exe.config
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Blog.dll.config
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Antlr3.Runtime.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\EntityFramework.SqlServer.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.AI.Web.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.AI.WindowsServer.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.ApplicationInsights.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.Owin.Security.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.Owin.Security.Google.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.Web.Infrastructure.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Newtonsoft.Json.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\System.Web.Helpers.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\System.Web.Mvc.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\System.Web.Optimization.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\System.Web.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\System.Web.WebPages.Deployment.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\System.Web.WebPages.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\System.Web.WebPages.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\WebGrease.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.AI.Web.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.AI.WindowsServer.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.ApplicationInsights.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\System.Web.Helpers.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\System.Web.Mvc.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\System.Web.Optimization.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\System.Web.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\System.Web.WebPages.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\System.Web.WebPages.Deployment.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\System.Web.WebPages.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Antlr3.Runtime.pdb
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Newtonsoft.Json.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\EntityFramework.SqlServer.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.Owin.Security.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.Owin.Security.Google.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\obj\Debug\Blog.csprojResolveAssemblyReference.cache
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\obj\Debug\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog treeth galery button - Copy\Blog\obj\Debug\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\ApplicationInsights.config
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\roslyn\csc.exe
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\roslyn\System.Collections.Immutable.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\roslyn\vbc.exe
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\roslyn\VBCSCompiler.exe
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\roslyn\VBCSCompiler.exe.config
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Blog.dll.config
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Antlr3.Runtime.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\EntityFramework.SqlServer.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.AI.Web.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.AI.WindowsServer.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.ApplicationInsights.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.Owin.Security.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.Owin.Security.Google.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.Web.Infrastructure.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Newtonsoft.Json.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\System.Web.Helpers.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\System.Web.Mvc.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\System.Web.Optimization.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\System.Web.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\System.Web.WebPages.Deployment.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\System.Web.WebPages.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\System.Web.WebPages.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\WebGrease.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.AI.Web.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.AI.WindowsServer.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.ApplicationInsights.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\System.Web.Helpers.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\System.Web.Mvc.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\System.Web.Optimization.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\System.Web.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\System.Web.WebPages.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\System.Web.WebPages.Deployment.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\System.Web.WebPages.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Antlr3.Runtime.pdb
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Newtonsoft.Json.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\EntityFramework.SqlServer.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.Owin.Security.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.Owin.Security.Google.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\obj\Debug\Blog.csprojResolveAssemblyReference.cache
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\obj\Debug\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fourth tag in new pages - Copy\Blog\obj\Debug\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\ApplicationInsights.config
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\roslyn\csc.exe
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\roslyn\System.Collections.Immutable.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\roslyn\vbc.exe
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\roslyn\VBCSCompiler.exe
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\roslyn\VBCSCompiler.exe.config
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Blog.dll.config
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Antlr3.Runtime.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\EntityFramework.SqlServer.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.AI.Web.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.AI.WindowsServer.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.ApplicationInsights.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.Owin.Security.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.Owin.Security.Google.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.Web.Infrastructure.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Newtonsoft.Json.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\System.Web.Helpers.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\System.Web.Mvc.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\System.Web.Optimization.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\System.Web.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\System.Web.WebPages.Deployment.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\System.Web.WebPages.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\System.Web.WebPages.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\WebGrease.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.AI.Web.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.AI.WindowsServer.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.ApplicationInsights.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\System.Web.Helpers.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\System.Web.Mvc.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\System.Web.Optimization.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\System.Web.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\System.Web.WebPages.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\System.Web.WebPages.Deployment.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\System.Web.WebPages.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Antlr3.Runtime.pdb
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Newtonsoft.Json.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\EntityFramework.SqlServer.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.Owin.Security.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.Owin.Security.Google.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\obj\Debug\Blog.csprojResolveAssemblyReference.cache
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\obj\Debug\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in new preview\Blog\obj\Debug\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\ApplicationInsights.config
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\roslyn\csc.exe
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\roslyn\System.Collections.Immutable.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\roslyn\System.Reflection.Metadata.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\roslyn\vbc.exe
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\roslyn\VBCSCompiler.exe
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\roslyn\VBCSCompiler.exe.config
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Blog.dll.config
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Antlr3.Runtime.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\EntityFramework.SqlServer.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.AI.Agent.Intercept.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.AI.DependencyCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.AI.Web.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.AI.WindowsServer.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.ApplicationInsights.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.AspNet.Identity.Core.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.Owin.Security.Cookies.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.Owin.Security.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.Owin.Security.Facebook.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.Owin.Security.Google.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.Owin.Security.OAuth.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.Owin.Security.Twitter.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.Web.Infrastructure.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Newtonsoft.Json.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Owin.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\System.Web.Helpers.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\System.Web.Mvc.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\System.Web.Optimization.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\System.Web.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\System.Web.WebPages.Deployment.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\System.Web.WebPages.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\System.Web.WebPages.Razor.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\WebGrease.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.AI.DependencyCollector.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.AI.Web.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.AI.WindowsServer.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.ApplicationInsights.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\System.Web.Helpers.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\System.Web.Mvc.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\System.Web.Optimization.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\System.Web.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\System.Web.WebPages.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\System.Web.WebPages.Deployment.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\System.Web.WebPages.Razor.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Antlr3.Runtime.pdb
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Newtonsoft.Json.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\EntityFramework.SqlServer.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.AspNet.Identity.Core.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.Owin.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.Owin.Security.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.Owin.Security.Facebook.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.Owin.Security.Cookies.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.Owin.Security.OAuth.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.Owin.Security.Google.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.Owin.Security.Twitter.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\obj\Debug\Blog.dll
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\obj\Debug\Blog.pdb
+D:\PROGRAMIRANE\Software Technologies\Desing\Blog fifth tag forum in  page objectsin in Mountaun\Blog\obj\Debug\Blog.csprojResolveAssemblyReference.cache
