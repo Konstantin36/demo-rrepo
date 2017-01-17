@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head >
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title Mountain </title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body background="~/content/izgled15.jpg"alt="Smiley face" height="5000" width="4000" />">
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                @Html.ActionLink("Витоша Mountain", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })                
+            </div>
+            <div class="navbar-collapse collapse">
+                @Html.Partial("_LoginPartial")               
+            </div>
+        </div>
+    </div>
+
+    <div class="container body-content">
+        @RenderBody()
+        <footer class="pull-right">
+            <p>&copy; @DateTime.Now.Year - К.Косев</p>
+        </footer>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,202 @@
+﻿@model List<Blog.Models.Article>
+
+@{
+    ViewBag.Title = "Витоша";
+}
+<hr />
+
+    <article class="row">
+        <article class="post col-md-3">
+            
+           @Html.ActionLink("Kоментирай", "Create", "Article", null, new { @class = "btn btn-success" })
+            
+            <div style="color:white">
+                <div class="row">
+                    @foreach (var article in Model)
+                    {
+                        <div class="col-sm-8">
+                            <article>
+                                <header>
+                                    <h2>
+                                        @Html.ActionLink(@article.Title, "Details", "Article", new { @id = article.Id }, null)
+                                    </h2>
+                                </header>
+                                <p>
+                                    @article.Content
+                                </p>
+                                <footer class="pull-right">
+                                    <small class="author">
+                                        --автор @article.Author.FullName
+                                    </small>
+                                </footer>
+                            </article>
+                        </div>
+                    }
+                </div>
+            </div>
+            <p class="post col-md-4">
+                Публикувано от <i>Konstantin Kosev(kosev)</i>
+                <i>31-дек-2016</i>
+            </p>
+                        
+                
+                <h6>
+                    <p class="post col-md-12">
+                        ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
+                        enables a clean separation of concerns and gives you full control over markup
+                        for enjoyable, agile development.
+                    </p>
+                </h6>
+
+        </article>
+       
+        <article class="post col-md-3">
+            
+                <h2><b>Google Maps</b></h2>
+            <br />
+            </a>
+            
+            
+            <iframe 
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d187673.
+            30870030247!2d23.183861209329756!3d42.
+            69534680121996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40aa8682cb317bf5%3A0x400a01269bf5e60!2z0KHQvtGE0LjRjw!5e0!3m2!1sbg!2sbg!4v1480443624565"
+            width="250" height="280" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+        </article>
+
+
+       
+
+        <article class="post col-md-5">
+            <p class="post col-md-12">
+                <a href="http://sinoptik.bg/cherni-vrah-bulgaria-307000006"><h2><b>Sinoptik Bg</h2></a>
+                
+               
+                <iframe src="http://sinoptik.bg/sofia-bulgaria-100727011"
+                        width="450" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+            </p>
+            
+
+        </article>
+
+
+        
+        <article class="post col-md-4">
+            <section >
+                <h2 class="title"><i><b><u>Галерия снимки</u> </b></i></h2>
+                <section class="row">
+                    <article class="post col-md-4">
+                        @Html.ActionLink("Галерия снимки", "Create", "Categories", null, new { @class = "btn btn-success" })
+                         </article>
+                    &nbsp;
+                        <article class="pull-right">
+                            @Html.ActionLink(" Маршрути и пътеки", "Guide", "Categories", null, new { @class = "btn btn-success" })
+                        </article>
+
+
+</section>
+               
+               
+                <section class="row">
+                    <article class="post col-md-8">
+                        
+                        <iframe src="~/Content/izgled13.jpg"
+                                width="380" height="170" alt="" align="left"></iframe>
+                    </article>
+
+
+                    <article class="post col-md-3">
+                        <iframe src="~/Content/preview.png"
+                                width="304" height="172" alt="" align="left"></iframe>
+                    </article>     
+                </section>
+              
+                    
+            </section>
+           
+                
+            
+          
+
+                
+
+            </article>               
+</article>
+            
+        
+
+    </section>
+     
+
+
+
+
+<section class="row">
+    <article class="post col-md-4" align="left">
+        <h2 class="title">Хижи във Витоша</h2>
+
+        <p class="post col-md-11">
+            Публикувано от <i>Konstantin Kosev(kosev)</i>
+            <i>31-дек-2016</i>
+        </p>
+
+        <p class="post col-md-12">
+            ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
+            enables a clean separation of concerns and gives you full control over markup
+            for enjoyable, agile development.
+        </p>
+        <section>
+            <article class="post col-md-3">
+                @Html.ActionLink("Разгледай", "Hut", "Categories", null, new { @class = "btn btn-success" })
+            </article>
+
+        </section>
+    </article>
+    <article class="post col-md-4" align="left">
+        <h2 class="title">Важни телефони</h2>
+
+        <p class="post col-md-11">
+            Публикувано от <i>Konstantin Kosev(kosev)</i>
+            <i>31-дек-2016</i>
+        </p>
+
+        <p class="post col-md-12">
+            ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
+            enables a clean separation of concerns and gives you full control over markup
+            for enjoyable, agile development.
+        </p>
+        <section>
+            <article class="post col-md-3">
+                @Html.ActionLink("Разгледай", "Phone", "Categories", null, new { @class = "btn btn-success" })
+            </article>
+
+        </section>
+    </article>
+    <article class="post col-md-4" align="left">
+        <h3 class="title"><i><u>Правила за позване на сайта</u></i></h3>
+
+        <p class="post col-md-11">
+            Публикувано от <i>Konstantin Kosev(kosev)</i>
+            <i>31-дек-2016</i>
+        </p>
+
+        <p class="post col-md-12">
+            ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that
+            enables a clean separation of concerns and gives you full control over markup
+            for enjoyable, agile development.
+        </p>
+        <section>
+            <article class="post col-md-3">
+                @Html.ActionLink("Разгледай", "Rules", "Categories", null, new { @class = "btn btn-success" })
+            </article>
+
+        </section>
+    </article>
+</section>
+    
+
+
+
+
+
